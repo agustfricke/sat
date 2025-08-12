@@ -136,11 +136,3 @@ Example:
 🏁 BATCH PLAYBACK FINISHED
 🎉 Batch processing completed!
 ```
-
----
-
-## ⚠️ Important Notes
-
-* **Use with caution!** This tool reproduces real clicks and keystrokes — it can interact with your active applications.
-* Recommended for controlled environments (testing, demos, automation) rather than your main desktop session.
-* Keyboard and mouse events are system-level — be aware of unintended actions.
